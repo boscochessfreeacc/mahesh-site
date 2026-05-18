@@ -241,17 +241,17 @@ blockquote {
 
 @font-face {
   font-family: "FanWood";
-  src: url("./../res/fonts/fanwood-master/webfonts/fanwood-webfont.woff");
+  src: url("./../res/fonts/fanwood/fanwood-webfont.woff");
 }
 
 @font-face {
   font-family: "Goudy Bookletter";
-  src: url("./../res/fonts/goudy-bookletter-1911-master/webfonts/goudy_bookletter_1911-webfont.woff");
+  src: url("./../res/fonts/Goudy Bookletter/goudy_bookletter_1911-webfont.woff");
 }
 
 @font-face {
   font-family: "Linden Hill";
-  src: url("./../res/fonts/linden-hill-master/webfonts/LindenHill-webfont.woff");
+  src: url("./../res/fonts/Linden Hill/LindenHill-webfont.woff");
 }
 
 * {
@@ -261,7 +261,9 @@ blockquote {
 h1,
 h2,
 h3,
-h4 {
+h4,
+h5,
+h6 {
   font-family: "Fanwood";
 }
 
