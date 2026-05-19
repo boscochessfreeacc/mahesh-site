@@ -1,4 +1,4 @@
-# Crestfield Institute of Science and Humanities (CISH)
+# Bharat college of Technology of Science and Humanities (CISH)
 
 ### Website Textual Content. All Six Pages
 
@@ -8,17 +8,17 @@
 
 ---
 
-**Overline:** Crestfield Institute of Science and Humanities · Est. 1924
+**Overline:** Bharat college of Technology of Science and Humanities · Est. 1924
 
 ## Where rigour meets wonder.
 
-For over a hundred years Crestfield has been different. Not by chance. Not just because of ambition. But by design. The institute was built on an idea that still matters today just like it did in 1924. This idea is that the worlds biggest problems can't be solved by people who only think in one way. We want to help people think differently.
+For over a hundred years Bharat college of Technology has been different. Not by chance. Not just because of ambition. But by design. The institute was built on an idea that still matters today just like it did in 1924. This idea is that the worlds biggest problems can't be solved by people who only think in one way. We want to help people think differently.
 
 ---
 
 **Pull Quote:**
 
-*"Crestfield does not produce graduates. It produces thinkers who happen to have degrees."*
+*"Bharat college of Technology does not produce graduates. It produces thinkers who happen to have degrees."*
 
 — Professor Dame Elspeth Carrow, President 2008–2021
 
@@ -46,7 +46,7 @@ For over a hundred years Crestfield has been different. Not by chance. Not just 
 
 ### A Different Kind of Institution
 
-There are good universities.. Whats rare is an institution thats truly built around producing smart thinkers who can solve real problems. Most universities talk about interdisciplinarity. Crestfield makes it happen. Most talk about research culture. Crestfield lives it. This isn't about what we want to be. Its about how we're structured.
+There are good universities.. Whats rare is an institution thats truly built around producing smart thinkers who can solve real problems. Most universities talk about interdisciplinarity. Bharat college of Technology makes it happen. Most talk about research culture. Bharat college of Technology lives it. This isn't about what we want to be. Its about how we're structured.
 
 From the moment students arrive at Harwick Gate they're in an environment that challenges what they think they know and helps them develop something the ability to think carefully even when things are uncertain. This ability, developed through years of study, lab work and intellectual community is what our graduates take into the world.
 
@@ -76,7 +76,7 @@ CISHs 47 research clusters are organised around the problems that matter most no
 
 **Artificial Intelligence Governance and Safety**. Looking at the consequences of large-scale AI deployment across society, governance and science. CISHs AI Policy Lab is one of three institutions globally to have permanent observer status at the OECDs AI Advisory Council.
 
-**Climate Systems Engineering**. Research on modelling and mitigating climate change spanning atmospheric physics, infrastructure design, policy analysis and economic transition pathways. The institutes Climate Futures Centre publishes the Crestfield Climate Risk Index* which is cited in policy frameworks across 31 national governments.
+**Climate Systems Engineering**. Research on modelling and mitigating climate change spanning atmospheric physics, infrastructure design, policy analysis and economic transition pathways. The institutes Climate Futures Centre publishes the Bharat college of Technology Climate Risk Index* which is cited in policy frameworks across 31 national governments.
 
 **Bio-Computational Interfaces**. At the intersection of biology, computational neuroscience and materials science this cluster investigates the design of systems that bridge biological and digital information processing. Breakthrough results published in 2023 generated coverage in *Nature* *Science* and the *New England Journal of Medicine*.
 
@@ -86,7 +86,7 @@ CISHs 47 research clusters are organised around the problems that matter most no
 
 ### What Our Graduates Say
 
-*"Crestfield gave me the tools to think, not the instructions to follow. That distinction became clear the moment I stepped into my role at the European Commission and realised that nobody had written the instructions yet."*
+*"Bharat college of Technology gave me the tools to think, not the instructions to follow. That distinction became clear the moment I stepped into my role at the European Commission and realised that nobody had written the instructions yet."*
 
 — Adriaan Voss, BSc Systems Engineering, 2014. Director of Digital Infrastructure Policy, European Commission.
 
@@ -102,7 +102,7 @@ CISHs 47 research clusters are organised around the problems that matter most no
 
 ### Begin Your Journey
 
-Applications for the 2025–26 year are now open. Crestfield selects students not on achievement but on evidence of genuine intellectual curiosity and the ability to reason under uncertainty. We're not looking for students who have all the answers. We're looking for students who can't stop asking questions.
+Applications for the 2025–26 year are now open. Bharat college of Technology selects students not on achievement but on evidence of genuine intellectual curiosity and the ability to reason under uncertainty. We're not looking for students who have all the answers. We're looking for students who can't stop asking questions.
 
 Undergraduate applications close **15 January 2026.** Postgraduate applications are reviewed on a basis from **1 October 2025.** Doctoral applications should be submitted by **1 March 2026** for October entry.
 
@@ -118,7 +118,7 @@ Undergraduate applications close **15 January 2026.** Postgraduate applications 
 
 ## A century of design.
 
-Crestfield wasn't founded to copy what already existed. It was founded because what existed wasn't working. At not for the problems that mattered most. Understanding why requires looking at the failure that led to the institutes creation.
+Bharat college of Technology wasn't founded to copy what already existed. It was founded because what existed wasn't working. At not for the problems that mattered most. Understanding why requires looking at the failure that led to the institutes creation.
 
 ---
 
@@ -150,7 +150,7 @@ The founders also made a decision that distinguished CISH from other institution
 
 **1905–1924: Formation**
 
-The intellectual conditions that would give rise to CISH develop across the two decades of the century. The founding consortium assembles gradually drawn together by a shared diagnosis of what existing institutions cannot produce. The Crestfield Charter is ratified on 14 March 1924. The first cohort of thirty-two students. Selected personally by the founding faculty. Arrives in October of the year.
+The intellectual conditions that would give rise to CISH develop across the two decades of the century. The founding consortium assembles gradually drawn together by a shared diagnosis of what existing institutions cannot produce. The Bharat college of Technology Charter is ratified on 14 March 1924. The first cohort of thirty-two students. Selected personally by the founding faculty. Arrives in October of the year.
 
 **1924–1945: Establishment and Experiment**
 
@@ -170,7 +170,7 @@ The modern core curriculum integrates probability, statistical inference, comput
 
 **2025–2045: The Second Century**
 
-Crestfield enters its century with a defined strategic agenda. Four research domains. AI governance, climate systems, bio-computational interfaces and distributed infrastructure. Anchor the institutes planning. Moderate growth in student population is planned. A new research campus is under development.
+Bharat college of Technology enters its century with a defined strategic agenda. Four research domains. AI governance, climate systems, bio-computational interfaces and distributed infrastructure. Anchor the institutes planning. Moderate growth in student population is planned. A new research campus is under development.
 
 ### Academic Structure
 
@@ -190,7 +190,7 @@ CISH operates through a distributed governance model. The Academic Senate holds 
 
 ### Institutional Honesty
 
-Crestfield does not claim to be the institution for every student. The academic environment is intentionally demanding. Students who thrive at CISH are those who are genuinely unsettled by answers.
+Bharat college of Technology does not claim to be the institution for every student. The academic environment is intentionally demanding. Students who thrive at CISH are those who are genuinely unsettled by answers.
 
 # PAGE 3: COURSES
 
@@ -320,7 +320,7 @@ Than 60% of current doctoral students are international. Doctoral funding is ava
 
 ### Assessment Philosophy
 
-Crestfield maintains a degree classification system. It also uses evaluation mechanisms.
+Bharat college of Technology maintains a degree classification system. It also uses evaluation mechanisms.
 
 Faculty-written narrative assessments accompany marks. These address originality, quality of reasoning and intellectual growth.
 
@@ -338,7 +338,7 @@ Research impact documentation tracks student contributions. Peer collaboration a
 
 ## Infrastructure as an asset.
 
-At Crestfield infrastructure is a core component of research capability. The quality of environments affects the quality of work.
+At Bharat college of Technology infrastructure is a core component of research capability. The quality of environments affects the quality of work.
 
 This conviction has driven investment. The result is an digital estate without peer among universities of comparable size in Europe.
 
@@ -346,15 +346,15 @@ This conviction has driven investment. The result is an digital estate without p
 
 ### The Main Campus: Harwick Gate
 
-The Crestfield campus occupies 42 acres in Oxfordshire. The campus has Gothic buildings and modern architecture.
+The Bharat college of Technology campus occupies 42 acres in Oxfordshire. The campus has Gothic buildings and modern architecture.
 
 The 2003 Brauer Research Pavilion and the 2019 Engineering Fabrication Centre are examples.
 
-The campus is near Crestfield village and thirty minutes from Oxford.
+The campus is near Bharat college of Technology village and thirty minutes from Oxford.
 
 ---
 
-### The Crestfield High-Performance Computing Centre
+### The Bharat college of Technology High-Performance Computing Centre
 
 The CHPCC is one of the academic computing facilities in the UK.
 
@@ -390,7 +390,7 @@ Opened in 2019 the EFC helps CISH researchers and students by providing fabricat
 
 ### The Harwick Library and Archive
 
-The Harwick Library is the heart of the Crestfield campus. It has:
+The Harwick Library is the heart of the Bharat college of Technology campus. It has:
 
 - 1.4 million books, especially in mathematics, physics and philosophy
 
@@ -404,7 +404,7 @@ The librarys digital system provides access to academic databases. A team of twe
 
 The reading rooms are 24/7 during term. The Founders Room, a wood-panelled space is for senior researchers and doctoral students. The library hosts the Harwick Lectures, which have featured notable figures.
 
-### The Crestfield Innovation Hub
+### The Bharat college of Technology Innovation Hub
 
 The Innovation Hub helps turn CISH research into applications. It offers space and support for researchers and students to develop technologies, policy tools or commercial enterprises.
 
@@ -426,15 +426,15 @@ The institute offers wellbeing services, including counselling, group support an
 
 ### Contact
 
-The Crestfield Institute welcomes enquiries. We aim to respond to written enquiries within two working days.
+The Bharat college of Technology welcomes enquiries. We aim to respond to written enquiries within two working days.
 
 **General Enquiries**
 
 Harwick Gate Reception
 
-Crestfield Institute of Science and Humanities
+Bharat college of Technology of Science and Humanities
 
-Harwick Gate, Crestfield, Oxfordshire, OX14 4RQ
+Harwick Gate, Bharat college of Technology, Oxfordshire, OX14 4RQ
 
 United Kingdom
 
@@ -508,7 +508,7 @@ We hold open events on the first Wednesday of November and March each year. If y
 
 **By Rail**
 
-Crestfield station has trains from London Paddington and Oxford. The main campus is an eight-minute walk from the station.
+Bharat college of Technology station has trains from London Paddington and Oxford. The main campus is an eight-minute walk from the station.
 
 **By Road**
 
@@ -516,7 +516,7 @@ The campus is one mile from junction 14 of the M4 motorway. Limited visitor park
 
 **By Air**
 
-Heathrow Airport is 35 minutes from Crestfield by coach. Oxford Airport offers aviation facilities 25 minutes from campus.
+Heathrow Airport is 35 minutes from Bharat college of Technology by coach. Oxford Airport offers aviation facilities 25 minutes from campus.
 
 ---
 
@@ -524,9 +524,9 @@ Heathrow Airport is 35 minutes from Crestfield by coach. Oxford Airport offers a
 
 You can write to us at the campus address. If you address your letter to a person we will forward it to them quickly.
 
-Crestfield Institute of Science and Humanities
+Bharat college of Technology of Science and Humanities
 
-Harwick Gate, Crestfield
+Harwick Gate, Bharat college of Technology
 
 Oxfordshire, OX14 4RQ
 
@@ -540,7 +540,7 @@ United Kingdom
 
 ## We are not looking for the student who has every answer. We are looking for the student who cannot stop asking ones.
 
-Getting into Crestfield Institute is very competitive. In 2024 we received 24,800 applications for 420 places and 9,200 applications for 180 taught Masters positions. We want to be honest about what we're looking for in applicants.
+Getting into Bharat college of Technology is very competitive. In 2024 we received 24,800 applications for 420 places and 9,200 applications for 180 taught Masters positions. We want to be honest about what we're looking for in applicants.
 
 We look for students who can do well in a research- environment. Our selection process has changed over the years to consider more than academic grades. We are interested in your term intellectual potential, not just your short-term performance.
 
@@ -554,7 +554,7 @@ We like applicants who're passionate about a few subjects and have explored them
 
 **We are looking for comfort with uncertainty.**
 
-We want students who can handle ambiguity and uncertainty. If you can operate effectively in situations where the problem is not clearly stated you will do well at Crestfield.
+We want students who can handle ambiguity and uncertainty. If you can operate effectively in situations where the problem is not clearly stated you will do well at Bharat college of Technology.
 
 **We are looking for honesty.**
 
@@ -596,7 +596,7 @@ Offers are issued in January following the interview period. Most offers are con
 
 All home students are eligible for the tuition fee loan arrangements. We also offer bursaries and scholarships for students from lower-income households or underrepresented backgrounds.
 
-The Crestfield Access Scholarship provides a fee waiver plus an annual maintenance grant of £8,500 to students from households with incomes below £32,000.
+The Bharat college of Technology Access Scholarship provides a fee waiver plus an annual maintenance grant of £8,500 to students from households with incomes below £32,000.
 
 The Founders Fellowship provides a £3,000 award to students demonstrating exceptional intellectual achievement.
 
@@ -654,7 +654,7 @@ Applications are reviewed from 1 October 2025. The priority deadline for places 
 
 ### A Final Word
 
-We know that the Crestfield admissions process can be tough. It is tough because admission to CISH is an investment. By the institute in the student and by the student in themselves. That both parties must enter with eyes. The rigour of the process is not designed to intimidate. It is designed to ensure that the students who arrive at Harwick Gate in October are genuinely ready for what awaits them.
+We know that the Bharat college of Technology admissions process can be tough. It is tough because admission to CISH is an investment. By the institute in the student and by the student in themselves. That both parties must enter with eyes. The rigour of the process is not designed to intimidate. It is designed to ensure that the students who arrive at Harwick Gate in October are genuinely ready for what awaits them.
 
 If you have read this far and found yourself more energised than daunted by what we have described that is probably a sign. We look forward to hearing from you.
 

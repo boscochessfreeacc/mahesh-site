@@ -1,4 +1,4 @@
-# Crestfield Institute of Science and Humanities (CISH)
+# Bharat college of Technology of Science and Humanities (CISH)
 
 ### Institutional Monograph: Origins, Systems, Culture, and Trajectory
 
