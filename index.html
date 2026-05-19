@@ -1,19 +1,25 @@
+<!-- ========================================
+     INDEX.HTML
+     Bharat College of Technology Website
+======================================== -->
+
 <!doctype html>
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>About — Bharat college of Technology</title>
+    <title>Bharat college of Technology</title>
     <link rel="stylesheet" href="./styles/style.css" />
   </head>
   <body>
-    <header class="navbar">
+    <!-- Navigation Bar -->
+<header class="navbar">
       <div class="logo">Bharat college of Technology</div>
 
       <!-- Navigation -->
 <nav>
-        <a href="./index.html">Home</a>
-        <a class="active" href="./about.html">About</a>
+        <a class="active" href="./index.html">Home</a>
+        <a href="./about.html">About</a>
         <a href="./academics.html">Academics</a>
         <a href="./research.html">Research</a>
         <a href="./facilities.html">Facilities</a>
@@ -24,73 +30,120 @@
 
     
 <!-- Content Section -->
-<section class="page-hero">
-      <p class="overline">About the Institute</p>
+<section class="hero">
+      <img src="./res/images/hero.jpg" alt="Campus" />
 
-      <h1>A century by design.</h1>
+      <div class="hero-content">
+        <p class="overline">
+          Bharat college of Technology of Science and Humanities · Est. 1924
+        </p>
 
-      <p>
-        Bharat college of Technology was founded to bridge the divide between
-        scientific rigour and humanistic breadth.
-      </p>
+        <h1>Where rigour meets wonder.</h1>
+
+        <p>
+          A research-first institution built around systems thinking,
+          interdisciplinary inquiry and long-term intellectual ambition.
+        </p>
+
+        <a class="button" href="./admissions.html"> Apply Now </a>
+      </div>
     </section>
 
-    <section class="section">
+    <!-- Content Section -->
+<section class="section">
       <div class="grid two">
-        <img class="rounded" src="./res/images/campus.jpg" />
-
         <div>
-          <h2>The Founding Charter</h2>
+          <h2>A Different Kind of Institution</h2>
 
           <br />
 
           <p>
-            The institute’s founding charter established four enduring
-            principles: research primacy, faculty governance, continuous
-            revision and structural interdisciplinarity.
+            Bharat college of Technology was founded on the conviction that the
+            world’s most consequential problems cannot be solved from within the
+            boundaries of a single discipline.
           </p>
 
           <br />
 
           <p>
-            These principles continue to shape Bharat college of Technology’s
-            academic structure and institutional culture.
+            The institute integrates science, engineering, philosophy, policy
+            and computation into a unified research culture.
           </p>
+        </div>
+
+        <div class="card stats">
+          <div>
+            <strong>4,200</strong>
+            <span>Students</span>
+          </div>
+
+          <div>
+            <strong>380</strong>
+            <span>Faculty</span>
+          </div>
+
+          <div>
+            <strong>47</strong>
+            <span>Research Clusters</span>
+          </div>
+
+          <div>
+            <strong>17</strong>
+            <span>Nobel Laureates</span>
+          </div>
         </div>
       </div>
     </section>
 
     <section class="section light">
-      <h2>A Century in Outline</h2>
+      <h2>Research Domains</h2>
 
       <br /><br />
 
-      <div class="grid three">
+      <div class="grid four">
         <div class="card">
-          <h3>1924–1945</h3>
-          <p>
-            Establishment of the institute and development of experimental
-            teaching methods.
-          </p>
+          <h3>AI Governance</h3>
+          <p>Governance and safety of large-scale AI systems.</p>
         </div>
 
         <div class="card">
-          <h3>1945–2000</h3>
-          <p>
-            Expansion of research infrastructure and formalisation of
-            interdisciplinary clusters.
-          </p>
+          <h3>Climate Systems</h3>
+          <p>Climate modelling and systems engineering.</p>
         </div>
 
         <div class="card">
-          <h3>2000–Present</h3>
-          <p>
-            Emergence as a globally recognised research-intensive institution.
-          </p>
+          <h3>Bio-Computational Interfaces</h3>
+          <p>Bridging biological and digital systems.</p>
+        </div>
+
+        <div class="card">
+          <h3>Distributed Infrastructure</h3>
+          <p>Resilience of global technical systems.</p>
         </div>
       </div>
     </section>
 
+    <section class="section">
+      <div class="grid two">
+        <img class="rounded" src="./res/images/students.jpg" alt="Students" />
+
+        <div>
+          <h2>Built Around Inquiry</h2>
+
+          <br />
+
+          <p>
+            Bharat college of Technology develops students capable of reasoning
+            under conditions of uncertainty.
+          </p>
+
+          <blockquote>
+            “Bharat college of Technology does not produce graduates. It
+            produces thinkers who happen to have degrees.”
+          </blockquote>
+        </div>
+      </div>
+    </section>
     
 <!-- Footer -->
 <footer class="footer">
@@ -166,6 +219,7 @@
       </div>
     </footer>
 
-    <script src="./scripts/script.js"></script>
+    <!-- Scripts -->
+<script src="./scripts/script.js"></script>
   </body>
 </html>

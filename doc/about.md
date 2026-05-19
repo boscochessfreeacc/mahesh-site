@@ -1,8 +1,0 @@
-
----
-# REFERENCE SECTION
----
-
-
----
-# MAIN CONTENT
